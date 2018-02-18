@@ -1,4 +1,4 @@
-package pikachu.demo;
+package pikachu.demo.models;
 
 public class Book {
     private Integer id;
