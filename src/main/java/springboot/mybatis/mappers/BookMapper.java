@@ -1,7 +1,7 @@
-package pikachu.demo.mappers;
+package springboot.mybatis.mappers;
 
 import org.apache.ibatis.annotations.Mapper;
-import pikachu.demo.models.Book;
+import springboot.mybatis.models.Book;
 
 @Mapper
 public interface BookMapper {

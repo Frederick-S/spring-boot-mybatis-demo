@@ -1,4 +1,4 @@
-package pikachu.demo;
+package springboot.mybatis;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package pikachu.demo.models;
+package springboot.mybatis.models;
 
 public class Book {
     private Integer id;
