@@ -1,6 +1,6 @@
 # spring-boot-mybatis
 
-## Sql
+## SQL
 ```sql
 CREATE DATABASE `demo`;
 
